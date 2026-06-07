@@ -14,3 +14,9 @@ A full-stack e-commerce web application built using the MERN stack with complete
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
+   cd backend && npm install
+   cd frontend && npm install
+3. Add a `.env` file with your MongoDB URI and JWT secret
+4. Run the app:
+   cd backend && npm start
+   cd frontend && npm start
